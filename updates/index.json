@@ -1,0 +1,316 @@
+{
+ "extensions": [
+  {
+   "element": "files_dharmashop_layouts",
+   "type": "file",
+   "folder": "",
+   "feed": "files_dharmashop_layouts.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "com_dharmashop",
+   "type": "component",
+   "folder": "",
+   "feed": "com_dharmashop.xml",
+   "version": "0.1.3",
+   "stability": "dev"
+  },
+  {
+   "element": "com_dharmashop_landing",
+   "type": "component",
+   "folder": "",
+   "feed": "com_dharmashop_landing.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "com_dharmashop_export",
+   "type": "component",
+   "folder": "",
+   "feed": "com_dharmashop_export.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "com_dharmashop_import",
+   "type": "component",
+   "folder": "",
+   "feed": "com_dharmashop_import.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "xlsx",
+   "type": "plugin",
+   "folder": "dharmashopimport",
+   "feed": "plg_dharmashopimport_xlsx.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "xlsx",
+   "type": "plugin",
+   "folder": "dharmashopexport",
+   "feed": "plg_dharmashopexport_xlsx.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "yml",
+   "type": "plugin",
+   "folder": "dharmashopexport",
+   "feed": "plg_dharmashopexport_yml.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopexport",
+   "type": "plugin",
+   "folder": "console",
+   "feed": "plg_console_dharmashopexport.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopexport",
+   "type": "plugin",
+   "folder": "task",
+   "feed": "plg_task_dharmashopexport.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopimport",
+   "type": "plugin",
+   "folder": "console",
+   "feed": "plg_console_dharmashopimport.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopimport",
+   "type": "plugin",
+   "folder": "task",
+   "feed": "plg_task_dharmashopimport.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "basic",
+   "type": "plugin",
+   "folder": "dharmashopfield",
+   "feed": "plg_dharmashopfield_basic.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "email",
+   "type": "plugin",
+   "folder": "dharmashopnotify",
+   "feed": "plg_dharmashopnotify_email.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "telegram",
+   "type": "plugin",
+   "folder": "dharmashopnotify",
+   "feed": "plg_dharmashopnotify_telegram.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "standard",
+   "type": "plugin",
+   "folder": "dharmashopshipping",
+   "feed": "plg_dharmashopshipping_standard.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "courier",
+   "type": "plugin",
+   "folder": "dharmashopshipping",
+   "feed": "plg_dharmashopshipping_courier.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "pickup",
+   "type": "plugin",
+   "folder": "dharmashopshipping",
+   "feed": "plg_dharmashopshipping_pickup.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "standard",
+   "type": "plugin",
+   "folder": "dharmashoppayment",
+   "feed": "plg_dharmashoppayment_standard.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "sandbox",
+   "type": "plugin",
+   "folder": "dharmashoppayment",
+   "feed": "plg_dharmashoppayment_sandbox.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "coupon",
+   "type": "plugin",
+   "folder": "dharmashoppromotion",
+   "feed": "plg_dharmashoppromotion_coupon.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "threshold",
+   "type": "plugin",
+   "folder": "dharmashoppromotion",
+   "feed": "plg_dharmashoppromotion_threshold.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "imageresize",
+   "type": "plugin",
+   "folder": "dharmashop",
+   "feed": "plg_dharmashop_imageresize.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "social",
+   "type": "plugin",
+   "folder": "dharmashop",
+   "feed": "plg_dharmashop_social.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "structureddata",
+   "type": "plugin",
+   "folder": "dharmashop",
+   "feed": "plg_dharmashop_structureddata.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashop",
+   "type": "plugin",
+   "folder": "radicalsitemap",
+   "feed": "plg_radicalsitemap_dharmashop.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopswiper",
+   "type": "plugin",
+   "folder": "system",
+   "feed": "plg_system_dharmashopswiper.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopfancybox",
+   "type": "plugin",
+   "folder": "system",
+   "feed": "plg_system_dharmashopfancybox.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashoppositions",
+   "type": "plugin",
+   "folder": "system",
+   "feed": "plg_system_dharmashoppositions.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashopmenu",
+   "type": "plugin",
+   "folder": "system",
+   "feed": "plg_system_dharmashopmenu.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashoprelated",
+   "type": "plugin",
+   "folder": "system",
+   "feed": "plg_system_dharmashoprelated.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "dharmashop",
+   "type": "plugin",
+   "folder": "task",
+   "feed": "plg_task_dharmashop.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_cart",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_cart.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_favorites",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_favorites.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_search",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_search.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_filter",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_filter.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_categories",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_categories.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "mod_dharmashop_products",
+   "type": "module",
+   "folder": "",
+   "feed": "mod_dharmashop_products.xml",
+   "version": "0.1.1",
+   "stability": "dev"
+  },
+  {
+   "element": "pkg_dharmashop",
+   "type": "package",
+   "folder": "",
+   "feed": "pkg_dharmashop.xml",
+   "version": "0.1.3",
+   "stability": "dev"
+  }
+ ]
+}
