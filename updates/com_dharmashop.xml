@@ -6,6 +6,22 @@
     <element>com_dharmashop</element>
     <type>component</type>
     <client>administrator</client>
+    <version>0.1.8</version>
+    <infourl title="Dharma Shop v0.1.8">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.8</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.8/com_dharmashop-0.1.8.zip</downloadurl></downloads>
+    <sha256>7decd5aa3515563075f7e8189d27e6f9448738e763e092e7440fbd071b9f138b</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+  <update>
+    <name>Dharma Shop</name>
+    <description>Dharma Shop</description>
+    <element>com_dharmashop</element>
+    <type>component</type>
+    <client>administrator</client>
     <version>0.1.7</version>
     <infourl title="Dharma Shop v0.1.7">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.7</infourl>
     <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.7/com_dharmashop-0.1.7.zip</downloadurl></downloads>
@@ -13,9 +29,10 @@
     <tags><tag>dev</tag></tags>
     <maintainer>Dharma</maintainer>
     <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*"/>
+    <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+  
   <update>
     <name>Dharma Shop</name>
     <description>Dharma Shop</description>
@@ -32,6 +49,7 @@
     <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+  
   
   <update>
     <name>Dharma Shop</name>
@@ -51,6 +69,7 @@
   </update>
   
   
+  
   <update>
     <name>Dharma Shop</name>
     <description>Dharma Shop</description>
@@ -61,25 +80,6 @@
     <infourl title="Dharma Shop v0.1.4">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.4</infourl>
     <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.4/com_dharmashop-0.1.4.zip</downloadurl></downloads>
     <sha256>89d889e75eb2af09ddeb5646568e5af9cd15cdeade722dae8eb658fa01f3f101</sha256>
-    <tags><tag>dev</tag></tags>
-    <maintainer>Dharma</maintainer>
-    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*" />
-    <php_minimum>8.3</php_minimum>
-  </update>
-  
-  
-  
-  <update>
-    <name>Dharma Shop</name>
-    <description>Dharma Shop</description>
-    <element>com_dharmashop</element>
-    <type>component</type>
-    <client>administrator</client>
-    <version>0.1.3</version>
-    <infourl title="Dharma Shop v0.1.3">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.3</infourl>
-    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.3/com_dharmashop-0.1.3.zip</downloadurl></downloads>
-    <sha256>99498743f5936a882a15cbdb799f5ed09eb2971c1ea97abd6150b3733ca30ebd</sha256>
     <tags><tag>dev</tag></tags>
     <maintainer>Dharma</maintainer>
     <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
