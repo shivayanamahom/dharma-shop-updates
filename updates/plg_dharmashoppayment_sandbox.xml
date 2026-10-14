@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Dharma Shop: оплата — тестовая (песочница)</name>
+    <description>Dharma Shop: оплата — тестовая (песочница)</description>
+    <element>sandbox</element>
+    <type>plugin</type>
+    <folder>dharmashoppayment</folder>
+    <client>site</client>
+    <version>0.1.1</version>
+    <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/plg_dharmashoppayment_sandbox-0.1.1.zip</downloadurl></downloads>
+    <sha256>0daf8ea629eb9c68ca0af4d6d16173749163115112f97c9dede312bec498c340</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+</updates>

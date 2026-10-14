@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Экспорт</name>
+    <description>Экспорт</description>
+    <element>com_dharmashop_export</element>
+    <type>component</type>
+    <client>administrator</client>
+    <version>0.1.1</version>
+    <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/com_dharmashop_export-0.1.1.zip</downloadurl></downloads>
+    <sha256>a3e257b4a72a8b892f2e8c7e55a99c18665641c428458d59071633442c8e4d79</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+</updates>

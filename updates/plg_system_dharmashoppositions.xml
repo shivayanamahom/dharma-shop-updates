@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Система — Dharma Shop: позиции модулей</name>
+    <description>Система — Dharma Shop: позиции модулей</description>
+    <element>dharmashoppositions</element>
+    <type>plugin</type>
+    <folder>system</folder>
+    <client>site</client>
+    <version>0.1.1</version>
+    <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/plg_system_dharmashoppositions-0.1.1.zip</downloadurl></downloads>
+    <sha256>d8e4e74d4d8a69c802a9b0911c731154523a1ea25bbd62380244f1254500cfad</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+</updates>

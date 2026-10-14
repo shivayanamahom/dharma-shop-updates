@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Dharma Shop — Размеры изображений</name>
+    <description>Dharma Shop — Размеры изображений</description>
+    <element>imageresize</element>
+    <type>plugin</type>
+    <folder>dharmashop</folder>
+    <client>site</client>
+    <version>0.1.1</version>
+    <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/plg_dharmashop_imageresize-0.1.1.zip</downloadurl></downloads>
+    <sha256>6fb84aa545f1d28c04ae8f1676d82aef5ec623b53e1967e03d6a3a9d243d4ce3</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+</updates>
