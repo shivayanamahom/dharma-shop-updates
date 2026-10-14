@@ -7,6 +7,23 @@
     <type>plugin</type>
     <folder>dharmashopshipping</folder>
     <client>site</client>
+    <version>0.1.4</version>
+    <infourl title="Dharma Shop v0.1.4">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.4</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.4/plg_dharmashopshipping_courier-0.1.4.zip</downloadurl></downloads>
+    <sha256>7db9cf70ec92dafa8c9980fda498277680cfb3ff23d6858baf2ab137d2597b37</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+  <update>
+    <name>Dharma Shop: доставка — курьер</name>
+    <description>Dharma Shop: доставка — курьер</description>
+    <element>courier</element>
+    <type>plugin</type>
+    <folder>dharmashopshipping</folder>
+    <client>site</client>
     <version>0.1.1</version>
     <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
     <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/plg_dharmashopshipping_courier-0.1.1.zip</downloadurl></downloads>
@@ -14,7 +31,8 @@
     <tags><tag>dev</tag></tags>
     <maintainer>Dharma</maintainer>
     <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*"/>
+    <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+
 </updates>
