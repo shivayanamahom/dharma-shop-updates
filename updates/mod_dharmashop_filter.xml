@@ -6,6 +6,22 @@
     <element>mod_dharmashop_filter</element>
     <type>module</type>
     <client>site</client>
+    <version>0.1.9</version>
+    <infourl title="Dharma Shop v0.1.9">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.9</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.9/mod_dharmashop_filter-0.1.9.zip</downloadurl></downloads>
+    <sha256>8a9d1e631b9ebda8942a00f5860f2453d68aee9156f8e15bdc5511bc4e58ae4e</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+  <update>
+    <name>Dharma Shop — Фильтр товаров</name>
+    <description>Dharma Shop — Фильтр товаров</description>
+    <element>mod_dharmashop_filter</element>
+    <type>module</type>
+    <client>site</client>
     <version>0.1.4</version>
     <infourl title="Dharma Shop v0.1.4">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.4</infourl>
     <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.4/mod_dharmashop_filter-0.1.4.zip</downloadurl></downloads>
@@ -13,9 +29,10 @@
     <tags><tag>dev</tag></tags>
     <maintainer>Dharma</maintainer>
     <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*"/>
+    <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+  
   <update>
     <name>Dharma Shop — Фильтр товаров</name>
     <description>Dharma Shop — Фильтр товаров</description>
@@ -32,5 +49,6 @@
     <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+
 
 </updates>
