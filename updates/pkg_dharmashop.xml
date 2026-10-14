@@ -6,6 +6,22 @@
     <element>pkg_dharmashop</element>
     <type>package</type>
     <client>site</client>
+    <version>0.1.6</version>
+    <infourl title="Dharma Shop v0.1.6">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.6</infourl>
+    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.6/pkg_dharmashop-0.1.6.zip</downloadurl></downloads>
+    <sha256>06a063d8a45e0ad7aac15b7ee00c5e9115c52b4d47dac35134bf5dba314521a8</sha256>
+    <tags><tag>dev</tag></tags>
+    <maintainer>Dharma</maintainer>
+    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
+    <targetplatform name="joomla" version="6.*"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+  <update>
+    <name>Dharma Shop (пакет)</name>
+    <description>Dharma Shop (пакет)</description>
+    <element>pkg_dharmashop</element>
+    <type>package</type>
+    <client>site</client>
     <version>0.1.5</version>
     <infourl title="Dharma Shop v0.1.5">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.5</infourl>
     <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.5/pkg_dharmashop-0.1.5.zip</downloadurl></downloads>
@@ -13,9 +29,10 @@
     <tags><tag>dev</tag></tags>
     <maintainer>Dharma</maintainer>
     <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*"/>
+    <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+  
   <update>
     <name>Dharma Shop (пакет)</name>
     <description>Dharma Shop (пакет)</description>
@@ -33,6 +50,7 @@
     <php_minimum>8.3</php_minimum>
   </update>
   
+  
   <update>
     <name>Dharma Shop (пакет)</name>
     <description>Dharma Shop (пакет)</description>
@@ -49,6 +67,7 @@
     <targetplatform name="joomla" version="6.*" />
     <php_minimum>8.3</php_minimum>
   </update>
+  
   
   
   <update>
@@ -70,24 +89,5 @@
   
   
   
-  <update>
-    <name>Dharma Shop (пакет)</name>
-    <description>Dharma Shop (пакет)</description>
-    <element>pkg_dharmashop</element>
-    <type>package</type>
-    <client>site</client>
-    <version>0.1.1</version>
-    <infourl title="Dharma Shop v0.1.1">https://github.com/shivayanamahom/dharma-shop-updates/releases/tag/v0.1.1</infourl>
-    <downloads><downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-shop-updates/releases/download/v0.1.1/pkg_dharmashop-0.1.1.zip</downloadurl></downloads>
-    <sha256>a2976c93305a98ef58c7529cdadbec01b8391db5a49e27a5c71e04edd4402533</sha256>
-    <tags><tag>dev</tag></tags>
-    <maintainer>Dharma</maintainer>
-    <maintainerurl>https://github.com/shivayanamahom</maintainerurl>
-    <targetplatform name="joomla" version="6.*" />
-    <php_minimum>8.3</php_minimum>
-  </update>
-
-
-
-
+  
 </updates>
